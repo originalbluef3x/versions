@@ -1,8 +1,9 @@
 {
-  "fletchbot": {
+  "echobot": {
     "version": "0.7.8",
     "notes": [
-      "+ category specific tickets += request from Ian"
+      "+ category specific tickets += request from Ian",
+      "+- Change name to Echo Moderation"
     ]
   }
 }
