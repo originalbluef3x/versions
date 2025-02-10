@@ -1,9 +1,24 @@
 {
   "echobot": {
-    "version": "0.7.8",
+    "old": [
+      {
+        "version": "0.7.8",
+        "notes": [
+          "+ category specific tickets += request from Ian",
+          "+- Change name to Echo Moderation"
+        ]
+      }
+    ],
+    "version": "0.7.9",
     "notes": [
-      "+ category specific tickets += request from Ian",
-      "+- Change name to Echo Moderation"
+      "+ Ticket System update",
+      "-> /config allows you to add new specifc tickets to corresponding categories",
+      "-> /config allows you to update new ticket channel permissions per specific ticket subcategory",
+      "-> /config only configures ticket system (currently)",
+      "+ All new modal/menu handler",
+      "-> Will allow for future use of drop-down menus",
+      "-> new /handlers/",
+      "-> new DYNAMIC drop down menus for tickets"
     ]
   }
 }
